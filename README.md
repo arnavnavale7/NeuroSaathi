@@ -1,13 +1,10 @@
 # NeuroSaathi 👓🧠
 ### AI-Powered AR Memory Glasses & Cognitive Assistance Platform
-**Smart India Hackathon (SIH) | Problem Statement SIH26003**  
-*Ministry of Development of North Eastern Region (MDoNER)*
-
 ---
 
 ## 🌟 Overview
 
-**NeuroSaathi** is an assistive AI platform engineered to support elderly dementia patients—specifically tailored for low-connectivity, culturally diverse environments such as India's North Eastern Region (NER). 
+**NeuroSaathi** is an assistive AI platform engineered to support elderly dementia patients—specifically tailored for low-connectivity, culturally diverse environments.
 
 Through an augmented reality (AR) glasses heads-up display (HUD) simulation, NeuroSaathi bridges the gap between memory decline and daily living:
 - **Instant Recognition**: Identifies loved ones and familiar caregivers in real time.
