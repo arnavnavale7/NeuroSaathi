@@ -111,15 +111,6 @@ http://localhost:8000
 
 ---
 
-## 🏆 Smart India Hackathon Details
-
-- **Problem ID**: SIH26003
-- **Organization**: Ministry of Development of North Eastern Region (MDoNER)
-- **Category**: Software / AI / Healthcare Assistive Tech
-- **Target Beneficiaries**: Elderly individuals suffering from mild to moderate Alzheimer's and Dementia, their families, and local healthcare workers in the North Eastern Region.
-
----
-
 ## 📄 License
 
 This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details (or open source for SIH evaluation).
